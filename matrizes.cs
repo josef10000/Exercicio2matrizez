@@ -26,7 +26,6 @@ class Program
             Console.WriteLine($"Soma da Linha {i + 1}: {somaLinha}");
         }
 
-        // Calcula a soma dos elementos de cada coluna
         for (int j = 0; j < 3; j++)
         {
             int somaColuna = 0;
